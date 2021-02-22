@@ -1,0 +1,38 @@
+.node {
+    position: relative;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    border: rgb(63, 161, 25) solid;
+    border-radius: 50%;
+    font-size: 14px;
+    color: rgb(0,0,0);
+    text-align: center;
+    background: rgb(116, 245, 64);
+    margin: 10px;
+  }
+
+
+  .dummy {
+    position: relative;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    border: inherit;
+    border-radius: 50%;
+    font-size: 14px;
+    color: rgb(0,0,0);
+    text-align: center;
+    background: inherit;
+    margin: 10px;
+
+  }
+
+  .line {
+    position: relative;
+    top: 3px;
+    right: 6px;
+    border-left: 3px solid green;
+    transform: rotate(30deg);
+    height: 50px;
+  }

@@ -1,0 +1,15 @@
+.tree {
+    display: flex;
+    position: relative;
+    top: 7rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.level {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}

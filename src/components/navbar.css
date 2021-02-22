@@ -1,0 +1,44 @@
+.navbar {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(27, 98, 190);
+
+}
+
+.text {
+    font-size: 40px;
+    color: rgb(239, 252, 65);
+    margin: .5rem 1rem;
+}
+
+.input {
+  padding: 12px 20px;
+  margin: 8px 10px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+button {
+  border: none;
+  border-radius: 5%;
+  color: white;
+  padding: 12px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.insert {
+    background-color: #4CAF50;
+}
+
+.delete {
+    background-color: rgb(228, 15, 15);
+}
